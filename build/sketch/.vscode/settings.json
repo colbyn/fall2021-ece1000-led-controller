@@ -1,0 +1,13 @@
+#line 1 "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/.vscode/settings.json"
+{
+    "files.associations": {
+        "deps.h": "c",
+        "binary.h": "c",
+        "stdio.h": "c",
+        "assert.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "arduino.commandPath": "arduino-cli",
+    "arduino.path": "/usr/local/bin",
+    "arduino.useArduinoCli": true,
+}

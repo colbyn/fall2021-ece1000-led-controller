@@ -1,0 +1,8 @@
+#line 1 "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/.vscode/arduino.json"
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "sketch": "big-lcd.ino",
+    "port": "/dev/cu.usbserial-1410",
+    "output": "./build"
+}

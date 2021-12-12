@@ -1,0 +1,2 @@
+#line 1 "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/README.md"
+~/Documents/MATLAB/SupportPackages/R2021a/3P.instrset/arduinoide.instrset/idepkgs/packages/arduino/hardware/avr/1.8.4/cores/arduino/binary.h

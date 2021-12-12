@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "sketch": "big-lcd.ino",
+    "port": "/dev/cu.usbserial-1410",
+    "output": "./build"
+}

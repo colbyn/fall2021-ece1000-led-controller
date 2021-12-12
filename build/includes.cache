@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/colbynwadman/Library/Arduino15/packages/arduino/hardware/avr/1.8.4/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/colbynwadman/Library/Arduino15/packages/arduino/hardware/avr/1.8.4/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/build/sketch/big-lcd.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/src"
+  },
+  {
+    "Sourcefile": "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/build/sketch/big-lcd.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/colbynwadman/School/ECE1000/final-project/big-lcd/build/sketch/main.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/src/LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

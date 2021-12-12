@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "deps.h": "c",
+        "binary.h": "c",
+        "stdio.h": "c",
+        "assert.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "arduino.commandPath": "arduino-cli",
+    "arduino.path": "/usr/local/bin",
+    "arduino.useArduinoCli": true,
+}
